@@ -45,6 +45,5 @@ The repetitive tasks, the copy-paste work, the things nobody actually wants to d
 ### 📈 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faheemdehalvi&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=39D353&title_color=39D353" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=faheemdehalvi&theme=github-green-purple&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
