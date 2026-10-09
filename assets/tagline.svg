@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="40" viewBox="0 0 640 40">
+  <style>
+    text{font-family:ui-monospace, &quot;SF Mono&quot;, SFMono-Regular, Menlo, Consolas, monospace;font-weight:500;font-size:19px;fill:#1A7F37;opacity:0;animation:cyc 9s infinite}
+    @media (prefers-color-scheme: dark){text{fill:#39D353}}
+    .b{animation-delay:3s}.c{animation-delay:6s}
+    @keyframes cyc{0%{opacity:0;transform:translateY(8px)}5%,28%{opacity:1;transform:none}33%,100%{opacity:0;transform:translateY(-8px)}}
+    @media (prefers-reduced-motion: reduce){text{animation:none}.a{opacity:1}}
+  </style>
+  <text class="a" x="320" y="26" text-anchor="middle">I make AI do the boring stuff.</text>
+  <text class="b" x="320" y="26" text-anchor="middle">Agentic workflows · MCP · GTM engineering</text>
+  <text class="c" x="320" y="26" text-anchor="middle">Data Science @ RMIT Melbourne</text>
+</svg>

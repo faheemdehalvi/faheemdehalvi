@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="44" viewBox="0 0 420 44">
+  <style>
+    text{font-family:-apple-system, BlinkMacSystemFont, &quot;SF Pro Display&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-weight:700;font-size:26px;letter-spacing:-0.02em;fill:#1A7F37}
+    @media (prefers-color-scheme: dark){text{fill:#39D353}}
+    .s{font-family:ui-monospace, &quot;SF Mono&quot;, SFMono-Regular, Menlo, Consolas, monospace;font-weight:500;opacity:.55}
+  </style>
+  <text x="2" y="31"><tspan class="s">//</tspan> tech i use</text>
+</svg>
