@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Faheem 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=46&duration=1200&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Hey%2C+I'm+Faheem" alt="Hey, I'm Faheem" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/faheemdehalvi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=I+make+AI+do+the+boring+stuff.;Agentic+workflows+%C2%B7+MCP+%C2%B7+GTM+engineering;Data+Science+%40+RMIT+Melbourne" alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=I+make+AI+do+the+boring+stuff.;Agentic+workflows+%C2%B7+MCP+%C2%B7+GTM+engineering;Data+Science+%40+RMIT+Melbourne" alt="I make AI do the boring stuff." />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧠 About me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=900&pause=100000&color=39D353&vCenter=true&repeat=false&width=400&height=40&lines=%2F%2F+about+me" alt="// about me" />
 
 The repetitive tasks, the copy-paste work, the things nobody actually wants to do: I'd rather build something that handles them.
 
@@ -24,7 +24,7 @@ The repetitive tasks, the copy-paste work, the things nobody actually wants to d
 - 💚 Previously interned at NVIDIA's AI Technology Center
 - 🔥 Founder of AOF, a community for students and early-career tech people
 
-### ⚡ Tech I use
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=900&pause=100000&color=39D353&vCenter=true&repeat=false&width=400&height=40&lines=%2F%2F+tech+i+use" alt="// tech i use" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -42,7 +42,7 @@ The repetitive tasks, the copy-paste work, the things nobody actually wants to d
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📈 Stats
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=900&pause=100000&color=39D353&vCenter=true&repeat=false&width=400&height=40&lines=%2F%2F+stats" alt="// stats" />
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=faheemdehalvi&theme=github-green-purple&hide_border=true&background=0D1117" alt="GitHub streak" />
