@@ -20,11 +20,21 @@
 
 The repetitive tasks, the copy-paste work, the things nobody actually wants to do: I'd rather build something that handles them.
 
-- ⚙️ **GTM Engineer** at Intelligent Resourcing, Melbourne
+- ⚙️ **AI Engineer** at Intelligent Resourcing (part-time), Melbourne
 - 🤖 Building agentic workflows, MCP integrations and AI-search (AEO/GEO) pipelines
 - 🎓 Master of Data Science @ RMIT University
 - 💚 Previously interned at NVIDIA's AI Technology Center
 - 🔥 Founder of AOF, a community for students and early-career tech people
+
+## Selected projects
+
+- [FD CODE](https://github.com/faheemdehalvi/fd-code): a customised [T3 Code](https://github.com/pingdotgg/t3code) application with context and tool integrations.
+- [ARTsie](https://github.com/faheemdehalvi/artsie): a local Mac workspace and MCP gateway around upstream [ArtCraft](https://getartcraft.com/apps) applications.
+- [Local RAG skill](https://github.com/faheemdehalvi/rag-skill): a Claude Code integration using [RAG-Anything](https://github.com/HKUDS/RAG-Anything), LightRAG and MinerU.
+
+## Writing
+
+[Practical AI workflows, project notes and guides](https://faheemdehalvi.github.io/). I explain the decisions behind the tools I work on and distinguish examples from measured results.
 
 <img src="./assets/tech.svg" alt="// tech i use" />
 
