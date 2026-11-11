@@ -28,9 +28,9 @@ The repetitive tasks, the copy-paste work, the things nobody actually wants to d
 
 ## Selected projects
 
-- [FD CODE](https://github.com/faheemdehalvi/fd-code): a customised [T3 Code](https://github.com/pingdotgg/t3code) application with context and tool integrations.
-- [ARTsie](https://github.com/faheemdehalvi/artsie): a local Mac workspace and MCP gateway around upstream [ArtCraft](https://getartcraft.com/apps) applications.
-- [Local RAG skill](https://github.com/faheemdehalvi/rag-skill): a Claude Code integration using [RAG-Anything](https://github.com/HKUDS/RAG-Anything), LightRAG and MinerU.
+- [FD CODE](https://github.com/faheemdehalvi/fd-code): a customised [T3 Code](https://github.com/pingdotgg/t3code) application with context and tool integrations. [Project notes](projects/fd-code.md).
+- [ARTsie](https://github.com/faheemdehalvi/artsie): a local Mac workspace and MCP gateway around upstream [ArtCraft](https://getartcraft.com/apps) applications. [Project notes](projects/artsie.md).
+- [Local RAG skill](https://github.com/faheemdehalvi/rag-skill): a Claude Code integration using [RAG-Anything](https://github.com/HKUDS/RAG-Anything), LightRAG and MinerU. [Project notes](projects/local-rag-skill.md).
 
 ## Writing
 
